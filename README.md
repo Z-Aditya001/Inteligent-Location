@@ -1,4 +1,4 @@
-Halo saudara ku, perkenalkan Saya Yusuf SW dari Surabaya, Jawa Timur
+Halo saudara ku, perkenalkan Saya Z-Aditya dari Surabaya, Jawa Timur
 
 Berikut adalah cara menggunakan file ini :
 
@@ -35,8 +35,8 @@ Installasi file :
 ( Execute file / Running file )
 - python Inteligent-Location.py ( enter )
 
-Jangan lupa follow instagram saya : @yusuf.sw001 & @zans3d
+Jangan lupa follow instagram saya : @zans3d
 
 Warning : Dilarang Recode file ini !!!
 
-Copyright by Yusuf SW
+Copyright by Z-Aditya
