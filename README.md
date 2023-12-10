@@ -10,10 +10,13 @@ Installasi file :
 - pkg install git -y
 - pkg install python -y
 - pip install requests -y
+
 ( Edit file )
 - nano Inteligent-Location.py ( Ubah Latitude & Longitude nya saja )
+  
 ( Keluar file )
 - Ctrl + O Lalu enter
+
 ( Execute file / Running file )
 - python Inteligent-Location.py ( enter )
   
@@ -22,10 +25,13 @@ Installasi file :
 - sudo apt-get install git -y
 - sudo apt-get install python -y
 - pip install requests -y
+
 ( Edit file )
 - nano Inteligent-Location.py ( Ubah Latitude & Longitude nya saja )
+
 ( Keluar file )
 - Ctrl + O Lalu enter
+
 ( Execute file / Running file )
 - python Inteligent-Location.py ( enter )
 
